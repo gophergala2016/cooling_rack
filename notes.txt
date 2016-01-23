@@ -1,3 +1,4 @@
 https://gist.github.com/wolfeidau/33dcf2ea2648a10bb9e7
+https://www.kernel.org/doc/Documentation/gpio/sysfs.txt
 
 
